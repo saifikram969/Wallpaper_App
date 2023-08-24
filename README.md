@@ -6,9 +6,13 @@ https://github.com/saifikram969/Wallpaper_App/assets/85647754/9b87bc55-785d-418e
 
 ScreenShot APP
 
-![as4](https://github.com/saifikram969/Wallpaper_App/assets/85647754/b5ebb91e-d0c6-44ea-80b8-2c0a31363044)
-![as3](https://github.com/saifikram969/Wallpaper_App/assets/85647754/978b5dd8-7d1f-4630-8923-60f1f339c04a)
-![as2](https://github.com/saifikram969/Wallpaper_App/assets/85647754/3a2d860d-b514-4f08-8d1f-16bbc248aea6)
-![as1](https://github.com/saifikram969/Wallpaper_App/assets/85647754/4c32b55b-7d10-4cf2-a59e-928035a53ffb)
+![as1](https://github.com/saifikram969/Wallpaper_App/assets/85647754/327cff10-514b-4687-8f88-e5d8ea0c85c6)
+![as2](https://github.com/saifikram969/Wallpaper_App/assets/85647754/028f4b72-1020-4118-8a07-ec2393e62442)
+![as3](https://github.com/saifikram969/Wallpaper_App/assets/85647754/e7bf9b32-5a97-4099-b97f-c8ed26c8dee4)
+![as4](https://github.com/saifikram969/Wallpaper_App/assets/85647754/304c0a38-f7b7-4bed-a397-753460f72129)
+
+
+
+
 
 
